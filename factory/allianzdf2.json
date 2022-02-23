@@ -1,0 +1,9 @@
+{
+	"name": "allianzdf2",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "274898c2-7c2a-49bf-93ae-898cad1c2485",
+		"tenantId": "cd320bff-f272-4a5a-a853-9ab85862bf7a"
+	}
+}
